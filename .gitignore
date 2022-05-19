@@ -1,1 +1,4 @@
 */build/
+.diea/
+*/cmake-build-debug/
+.git/
